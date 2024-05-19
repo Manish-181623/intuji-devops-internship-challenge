@@ -8,6 +8,7 @@
  */
 
 namespace Silarhi;
+
 require_once  'HelloInterface.php';
 
 class Hello implements HelloInterface
