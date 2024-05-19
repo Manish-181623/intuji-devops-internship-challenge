@@ -1,5 +1,5 @@
 # Author: Manish Ghimire
-## 1. Docker Installation using Bash Script
+## 1. Docker Installation using Bash Script.
 Create a script named dockerinstallscript.sh
 
 [Link](https://github.com/Manish-181623/Images/blob/master/dockerinstallscript.sh)
