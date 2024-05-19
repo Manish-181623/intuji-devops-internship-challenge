@@ -20,6 +20,8 @@ Building Dockerfile
 docker build -t php_hello_img .
 ```
 ![Image](https://github.com/Manish-181623/Testphp/assets/100844849/d7490ff7-189c-42e5-b04f-2af4b04140bd)
+
+
 Run dockerfile
 ```bash
 docker run -d -it -p 8000:80 --name phpcontainer phpimg
@@ -56,7 +58,14 @@ Run docker-compose file
  ![Image](https://github.com/Manish-181623/Testphp/assets/100844849/aac03f9d-9cfa-432d-96a1-ea8170eb6e36)
  #### 6.3 Configured project to build from Git repository
  ![Image](https://github.com/Manish-181623/Testphp/assets/100844849/5f00a79b-eefe-415c-becb-33930cbc7634)
- #### 6.4 Build Project
+ #### 6.4 Added Script to build using Dockefile
+
+ ![command_jenkins](https://github.com/Manish-181623/Testphp/assets/100844849/c87d1144-d58a-4c00-b494-08ab9669eccf)
+
+ #### 6.5 Build Project
  ![Image](https://github.com/Manish-181623/Testphp/assets/100844849/3151f3c5-b386-4d1d-8a36-4aa8e369110a)
- #### 6.5 Console Output 
+ #### 6.6 Console Output 
  ![Image](https://github.com/Manish-181623/Testphp/assets/100844849/563bea0e-62d3-4d26-9059-3596439c9601)
+ ![SS1](https://github.com/Manish-181623/Testphp/assets/100844849/2e7a8849-6469-4681-8ea5-21871d494f4f)
+ ![ss2](https://github.com/Manish-181623/Testphp/assets/100844849/5be23b90-ff39-48c7-9012-6dbb4c4f3546)
+ ![ss3](https://github.com/Manish-181623/Testphp/assets/100844849/19cbbfdb-7954-4674-b8bc-654fd2ba8c7b)
