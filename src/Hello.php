@@ -8,9 +8,9 @@
  */
 
 namespace Silarhi;
+require_once  'HelloInterface.php';
 
 class Hello implements HelloInterface
-require_once  'HelloInterface.php';
 {
     private const VERSION = 'latest';
 
