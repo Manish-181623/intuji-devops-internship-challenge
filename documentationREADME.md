@@ -1,9 +1,10 @@
 # Author: Manish Ghimire
 ## 1. Docker Installation using Bash Script
+Create a script named dockerinstallscript.sh
 
 [Link](https://github.com/Manish-181623/Images/blob/master/dockerinstallscript.sh)
 
-![Script](https://github.com/Manish-181623/Testphp/assets/100844849/5579fb43-397d-4184-b4a6-586c463a74b2)
+![Script](https://github.com/Manish-181623/Testphp/assets/100844849/30f94134-3ca1-4167-8df9-2457a8f668d8)
 
 ## 2. Cloning GitHub Repository
 [Link]((https://github.com/silarhi/php-hello-world.git).) with local repository
